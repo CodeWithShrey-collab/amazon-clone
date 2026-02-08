@@ -15,7 +15,11 @@ The goal of this project was to practice layout design, responsiveness, and CSS 
 - CSS3 (Flexbox / Grid)
 
 ## 📸 Preview
-(Add screenshots here)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/93059034-4ba5-42b2-a6b7-48b407eff939" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/931af2d8-a8c0-4ec9-a7ea-e00953c15a62" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2da49d3d-4c2f-4a38-9c14-5c7dd14e09e9" />
+
+
 
 ## 📌 Notes
 This is a **static frontend project** with no backend or JavaScript functionality.
