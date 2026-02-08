@@ -19,6 +19,12 @@ The goal of this project was to practice layout design, responsiveness, and CSS 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/931af2d8-a8c0-4ec9-a7ea-e00953c15a62" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2da49d3d-4c2f-4a38-9c14-5c7dd14e09e9" />
 
+## 📥 Clone the Repository
+
+To get a local copy of this project, run the following command:
+
+```bash
+git clone https://github.com/CodeWithShrey-collab/amazon-clone.git
 
 
 ## 📌 Notes
