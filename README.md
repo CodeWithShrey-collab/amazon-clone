@@ -26,7 +26,7 @@ To get a local copy of this project, run the following command:
 ```bash
 git clone https://github.com/CodeWithShrey-collab/amazon-clone.git
 
-
+```
 ## 📌 Notes
 This is a **static frontend project** with no backend or JavaScript functionality.
 
